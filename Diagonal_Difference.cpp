@@ -14,3 +14,7 @@ int diagonalDifference(vector<vector<int>> arr) {
     return abs(s1-s2);
 
 }
+
+Question link
+
+https://www.hackerrank.com/challenges/diagonal-difference/problem
